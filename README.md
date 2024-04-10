@@ -1,6 +1,6 @@
-# GitHub Profile Finder
+# DevDetective 👨🏻‍💻
 
-GitHub Profile Finder is a web application that enables users to search for GitHub profiles and view their details. This application is built using HTML, CSS, and JavaScript, and it leverages the GitHub API to fetch user data and present it on the front-end.
+DevDetective is a web application that enables users to search for GitHub profiles and view their details. This application is built using HTML, CSS, and JavaScript, and it leverages the GitHub API to fetch user data and present it on the front-end.
 
 ## Features
 
@@ -17,11 +17,13 @@ GitHub Profile Finder is a web application that enables users to search for GitH
 
 ## How to Use
 
-1. Open the GitHub Profile Finder web application in your preferred web browser.
+1. Open the DevDetective web application in your preferred web browser.
 2. Enter the username of the GitHub profile you want to search for in the provided input field.
 3. Press the search button or hit Enter to initiate the search.
 4. Upon successful retrieval of the user's data, the application will display the profile details.
 
-## Demo
+## Output Screenshot [🔗](https://gajendra-ingle.github.io/DevDetective/)
 
-You can access a live demo of the GitHub Profile Finder [here](#).
+![Output Screenshot](/Output-1.png)
+![Output Screenshot](/Output-2.png)
+
